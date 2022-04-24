@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+a {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+video {
+    display: list-item;
+    margin-left: 37%;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 21px;
+    color: grey;
+    font-family: Verdana;
+    font-weight: 500;
+}
+
+img {
+    display: list-item;
+    margin-left: 20%;
+    margin-top: 20px;
+}
+
+#phone {
+    margin-left: 47%;
+}
+
+#grey-text-left {
+    text-align: right;
+}
